@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Epitech<br>🔭 I’m currently learning C
+🏫 Epitech<br>🔭 I’m currently learning C/CPP
 
 
 # 💻 Tech Stack:
